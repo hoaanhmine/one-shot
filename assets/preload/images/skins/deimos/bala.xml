@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bala.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bullet arrow0000" x="0" y="0" width="322" height="355" frameX="-4" frameY="-8" frameWidth="336" frameHeight="381"/>
+	<SubTexture name="bullet arrow0001" x="332" y="0" width="336" height="381"/>
+	<SubTexture name="bullet arrow0002" x="678" y="0" width="315" height="318" frameX="-6" frameY="-8" frameWidth="336" frameHeight="381"/>
+	<SubTexture name="bullet arrow touch0000" x="0" y="391" width="183" height="213" frameX="-83" frameY="-38" frameWidth="311" frameHeight="453"/>
+	<SubTexture name="bullet arrow touch0001" x="193" y="391" width="298" height="288" frameX="-13" frameY="-4" frameWidth="311" frameHeight="453"/>
+	<SubTexture name="bullet arrow touch0002" x="193" y="391" width="298" height="288" frameX="-13" frameY="-4" frameWidth="311" frameHeight="453"/>
+	<SubTexture name="bullet arrow touch0003" x="501" y="391" width="309" height="317" frameX="0" frameY="0" frameWidth="311" frameHeight="453"/>
+	<SubTexture name="bullet arrow touch0004" x="0" y="718" width="295" height="374" frameX="-3" frameY="-13" frameWidth="311" frameHeight="453"/>
+	<SubTexture name="bullet arrow touch0005" x="305" y="718" width="292" height="434" frameX="-4" frameY="-19" frameWidth="311" frameHeight="453"/>
+	<SubTexture name="bullet arrow touch0006" x="607" y="718" width="276" height="265" frameX="-15" frameY="-20" frameWidth="311" frameHeight="453"/>
+	<SubTexture name="bullet arrow touch0007" x="0" y="1162" width="242" height="234" frameX="-60" frameY="-45" frameWidth="311" frameHeight="453"/>
+	<SubTexture name="bullet arrow touch0008" x="252" y="1162" width="42" height="93" frameX="-149" frameY="-124" frameWidth="311" frameHeight="453"/>
+	<SubTexture name="bullet arrow touch0009" x="304" y="1162" width="27" height="144" frameX="-151" frameY="-193" frameWidth="311" frameHeight="453"/>
+	<SubTexture name="bullet arrow touch0010" x="341" y="1162" width="0" height="0" frameX="-108" frameY="-48" frameWidth="311" frameHeight="453"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<TextureAtlas imagePath="video.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture x="0" frameWidth="0" y="0" frameX="0" name="video0000" frameHeight="0" frameY="0" width="311" height="283"/>
+	<SubTexture x="316" frameWidth="397" y="0" frameX="5" name="play0000" frameHeight="345" frameY="1" width="340" height="278"/>
+	<SubTexture x="0" frameWidth="397" y="288" frameX="16" name="play0001" frameHeight="345" frameY="22" width="364" height="314"/>
+	<SubTexture x="369" frameWidth="397" y="288" frameX="28" name="play0002" frameHeight="345" frameY="31" width="383" height="329"/>
+	<SubTexture x="0" frameWidth="397" y="622" frameX="28" name="play0003" frameHeight="345" frameY="31" width="383" height="329"/>
+	<SubTexture x="388" frameWidth="397" y="622" frameX="33" name="play0004" frameHeight="345" frameY="33" width="393" height="340"/>
+	<SubTexture x="0" frameWidth="397" y="967" frameX="33" name="play0005" frameHeight="345" frameY="33" width="393" height="340"/>
+	<SubTexture x="398" frameWidth="397" y="967" frameX="35" name="play0006" frameHeight="345" frameY="35" width="396" height="341"/>
+	<SubTexture x="0" frameWidth="0" y="1313" frameX="35" name="play0007" frameHeight="0" frameY="35" width="397" height="345"/>
+	<SubTexture x="402" frameWidth="397" y="1313" frameX="0" name="play0008" frameHeight="345" frameY="0" width="311" height="283"/>
+	<SubTexture x="402" frameWidth="397" y="1313" frameX="0" name="play0009" frameHeight="345" frameY="0" width="311" height="283"/>
+	<SubTexture x="402" frameWidth="397" y="1313" frameX="0" name="play0010" frameHeight="345" frameY="0" width="311" height="283"/>
+	<SubTexture x="402" frameWidth="397" y="1313" frameX="0" name="play0011" frameHeight="345" frameY="0" width="311" height="283"/>
+	<SubTexture x="402" frameWidth="397" y="1313" frameX="0" name="play0012" frameHeight="345" frameY="0" width="311" height="283"/>
+</TextureAtlas>

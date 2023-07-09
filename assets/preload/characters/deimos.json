@@ -1,0 +1,121 @@
+{
+	"position": [
+		-90,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"image": "characters/deimos",
+	"animations": [
+		{
+			"name": "left 0",
+			"offsets": [
+				-305,
+				-69
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"name": "down0",
+			"offsets": [
+				-269,
+				-15
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"name": "right 0",
+			"offsets": [
+				-148,
+				-30
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"name": "up 0",
+			"offsets": [
+				-195,
+				-41
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"name": "deimos idle 0",
+			"offsets": [
+				-151,
+				-27
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"name": "left angry0",
+			"offsets": [
+				-185,
+				-67
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"name": "down angry0",
+			"offsets": [
+				-124,
+				-13
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"name": "right angry0",
+			"offsets": [
+				-81,
+				-47
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"name": "up angry0",
+			"offsets": [
+				-212,
+				-60
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"indices": []
+		}
+	],
+	"camera_position": [
+		320,
+		-100
+	],
+	"flip_x": false,
+	"no_antialiasing": false,
+	"scale": 1,
+	"healthicon": "dad",
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthbar_colors": [175, 102, 206]
+}

@@ -1,0 +1,82 @@
+{
+	"objects": [
+		[
+			"deimos/title",
+			-520,-3300
+			1,
+			1,
+			1,
+			true,
+			true
+		],
+		[
+			"deimos/chains",
+			-1734,-1835,
+			1,
+			1,
+			1,
+			true,
+			true
+		],
+		[
+			"deimos/polvo",
+			-421,123,
+1,
+			1,
+			1,
+			true,
+			true
+		],
+		[
+			"deimos/piedra",
+			61,-1151,
+			1,
+			1,
+			1,
+			true,
+			true
+		],
+		[
+			"deimos/deimos/deimos-assets-pack",
+			-759,-20,
+			1,
+			1,
+			1,
+			true,
+			true
+		],
+		[
+			"deimos/final",
+			-1323,-644,
+			1,
+			1,
+			1,
+			true,
+			true
+		],
+		[
+			"deimos/mira",
+			188,-345,
+			1,
+			1,
+			1,
+			true,
+			true,
+			1
+		]
+	],
+	"gfPos": [
+		-73,
+		-8
+	],
+	"bfPos": [
+		495,
+		155
+	],
+	"cameraZoom": 0.569999999999997,
+	"curStage": "hell",
+	"dadPos": [
+		-768,
+		-21
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"position": [
+		0,
+		300
+	],
+	"camera_position": [
+		150,
+		150
+	],
+	"sing_duration": 4,
+	"image": "characters/nega-pico-death",
+	"animations": [
+		{
+			"name": "PICO DED0",
+			"offsets": [
+				1,
+				-1
+			],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"name": "PICO DED loop",
+			"offsets": [
+				1,
+				-141
+			],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"indices": []
+		},
+		{
+			"name": "PICO DED press",
+			"offsets": [
+				24,
+				201
+			],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"indices": []
+		}
+	],
+	"flip_x": false,
+	"no_antialiasing": false,
+	"scale": 1,
+	"healthicon": "bf",
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthbar_colors": [49, 176, 209]
+}

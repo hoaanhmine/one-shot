@@ -1,0 +1,89 @@
+{
+	"position": [
+		200,
+		100
+	],
+	"sing_duration": 6.1,
+	"image": "characters/convict",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"name": "idle",
+			"loop": false,
+			"indices": [],
+			"anim": "idle"
+		},
+		{
+			"offsets": [
+				64,
+				37
+			],
+			"fps": 24,
+			"name": "up",
+			"anim": "singUP",
+			"indices": [],
+			"loop": false
+		},
+		{
+			"offsets": [
+				175,
+				-99
+			],
+			"fps": 24,
+			"name": "left",
+			"anim": "singLEFT",
+			"indices": [],
+			"loop": false
+		},
+		{
+			"offsets": [
+				7,
+				-28
+			],
+			"fps": 24,
+			"name": "right",
+			"anim": "singRIGHT",
+			"indices": [],
+			"loop": false
+		},
+		{
+			"offsets": [
+				78,
+				-145
+			],
+			"fps": 24,
+			"name": "down",
+			"anim": "singDOWN",
+			"indices": [],
+			"loop": false
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"name": "nene",
+			"anim": "nene",
+			"indices": [],
+			"loop": false
+		}
+	],
+	"camOffset": [
+		-380,
+		-60
+	],
+	"flip_x": false,
+	"no_antialiasing": true,
+	"healthicon": "convict",
+	"camera_position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"healthbar_colors": [39, 42, 123]
+}

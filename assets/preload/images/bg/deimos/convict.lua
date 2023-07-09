@@ -1,0 +1,20 @@
+function onCreate()
+	makeLuaSprite('bg', 'bg/convict/bg',21,-796) 
+	addLuaSprite('bg', false)
+	makeAnimatedLuaSprite('intro', 'bg/convict/intro',1601,-281) 
+	addAnimationByPrefix('intro', 'in', 'intro', 24, false);
+	--addLuaSprite('intro', false)
+	makeLuaSprite('light', 'bg/convict/bg',-9,-631) 
+	setProperty('light.alpha',0.46)
+	addLuaSprite('light', false)
+	makeAnimatedLuaSprite('landing', 'bg/convict/landing',21,-796) 
+	addAnimationByPrefix('landing', 'land', 'landing', 24, false);
+	--addLuaSprite('landing', false)
+	makeLuaSprite('ilumination', 'bg/convict/ilumination',386,-820) 
+	setProperty('ilumination.alpha',0.2)
+	addLuaSprite('ilumination', true)
+	makeLuaSprite('filter', 'bg/convict/filter',49,-836) 
+	setProperty('filter.alpha',0.2)
+	addLuaSprite('filter', true)
+close(true)
+end

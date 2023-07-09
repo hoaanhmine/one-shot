@@ -1,0 +1,62 @@
+{
+	"objects": [
+		[
+			"hud/deimos/choose",
+			63,
+			-46.5,
+			0.55,
+			1,
+			1,
+			true,
+			true,
+			1
+		],
+		[
+			"hud/deimos/exp",
+			484,
+			200,
+			0.51,
+			1,
+			1,
+			true,
+			true,
+			1
+		],
+		[
+			"hud/deimos/diff",
+			504.5,
+			227,
+			0.48,
+			1,
+			1,
+			true,
+			true,
+			1
+		],
+		[
+			"hud/deimos/grunt_tutorial",
+			372,
+			228,
+			0.51,
+			1,
+			1,
+			true,
+			true,
+			1
+		]
+	],
+	"gfPos": [
+		0,
+		0
+	],
+	"bfPos": [
+		0,
+		0
+	],
+	"cameraZoom": 1.05,
+	"curStage": "stage",
+	"dadPos": [
+		0,
+		0
+	]
+}

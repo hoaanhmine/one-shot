@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="barra.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="barra info0000" x="0" y="0" width="784" height="234"/>
+	<SubTexture name="barra info0001" x="789" y="0" width="784" height="234"/>
+	<SubTexture name="barra info0002" x="1578" y="0" width="784" height="234"/>
+	<SubTexture name="barra info0003" x="2367" y="0" width="784" height="234"/>
+	<SubTexture name="barra info0004" x="3156" y="0" width="784" height="234"/>
+	<SubTexture name="barra info0005" x="0" y="239" width="784" height="234"/>
+	<SubTexture name="barra info0006" x="789" y="239" width="784" height="234"/>
+	<SubTexture name="barra info0007" x="1578" y="239" width="784" height="234"/>
+	<SubTexture name="barra info0008" x="2367" y="239" width="784" height="234"/>
+	<SubTexture name="barra info0009" x="3156" y="239" width="784" height="234"/>
+	<SubTexture name="barra info0010" x="0" y="478" width="784" height="234"/>
+	<SubTexture name="barra info0011" x="789" y="478" width="784" height="234"/>
+	<SubTexture name="barra info0012" x="1578" y="478" width="784" height="234"/>
+	<SubTexture name="barra info0013" x="2367" y="478" width="784" height="234"/>
+	<SubTexture name="barra info0014" x="3156" y="478" width="784" height="234"/>
+	<SubTexture name="barra info0015" x="0" y="717" width="784" height="234"/>
+	<SubTexture name="barra info0016" x="789" y="717" width="784" height="234"/>
+	<SubTexture name="barra info0017" x="1578" y="717" width="784" height="234"/>
+	<SubTexture name="barra info0018" x="2367" y="717" width="784" height="234"/>
+	<SubTexture name="barra info0019" x="3156" y="717" width="784" height="234"/>
+	<SubTexture name="barra info0020" x="0" y="956" width="784" height="234"/>
+	<SubTexture name="barra info0021" x="789" y="956" width="784" height="234"/>
+	<SubTexture name="barra info0022" x="1578" y="956" width="784" height="234"/>
+	<SubTexture name="barra info0023" x="2367" y="956" width="784" height="234"/>
+	<SubTexture name="barra info0024" x="3156" y="956" width="784" height="234"/>
+	<SubTexture name="barra info0025" x="0" y="1195" width="784" height="234"/>
+	<SubTexture name="barra info0026" x="789" y="1195" width="784" height="234"/>
+	<SubTexture name="barra info0027" x="1578" y="1195" width="784" height="234"/>
+	<SubTexture name="barra info0028" x="2367" y="1195" width="784" height="234"/>
+	<SubTexture name="barra info0029" x="3156" y="1195" width="784" height="234"/>
+	<SubTexture name="barra info0030" x="0" y="1434" width="784" height="234"/>
+	<SubTexture name="barra info0031" x="789" y="1434" width="784" height="234"/>
+	<SubTexture name="barra info0032" x="1578" y="1434" width="784" height="234"/>
+	<SubTexture name="barra info0033" x="2367" y="1434" width="784" height="234"/>
+	<SubTexture name="barra info0034" x="3156" y="1434" width="784" height="234"/>
+	<SubTexture name="barra info0035" x="0" y="1673" width="784" height="234"/>
+	<SubTexture name="barra info0036" x="789" y="1673" width="784" height="234"/>
+	<SubTexture name="barra info0037" x="1578" y="1673" width="784" height="234"/>
+	<SubTexture name="barra info0038" x="2367" y="1673" width="784" height="234"/>
+	<SubTexture name="barra info0039" x="3156" y="1673" width="784" height="234"/>
+	<SubTexture name="barra info0040" x="0" y="1912" width="784" height="234"/>
+	<SubTexture name="barra info0041" x="789" y="1912" width="784" height="234"/>
+	<SubTexture name="barra info0042" x="1578" y="1912" width="784" height="234"/>
+	<SubTexture name="barra info0043" x="2367" y="1912" width="784" height="234"/>
+	<SubTexture name="barra info0044" x="3156" y="1912" width="784" height="234"/>
+	<SubTexture name="barra info0045" x="0" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info0046" x="789" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0000" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0001" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0002" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0003" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0004" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0005" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0006" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0007" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0008" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0009" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0010" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0011" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0012" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0013" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0014" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0015" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0016" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0017" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0018" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0019" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0020" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0021" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0022" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0023" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0024" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0025" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0026" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0027" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0028" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0029" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0030" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0031" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0032" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0033" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0034" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0035" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0036" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0037" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0038" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0039" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0040" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0041" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0042" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0043" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0044" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0045" x="1578" y="2151" width="784" height="234"/>
+	<SubTexture name="barra info block0046" x="1578" y="2151" width="784" height="234"/>
+</TextureAtlas>

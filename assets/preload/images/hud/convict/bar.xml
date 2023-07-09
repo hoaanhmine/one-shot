@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bar.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="00000" x="0" y="0" width="782" height="366"/>
+	<SubTexture name="10000" x="787" y="0" width="782" height="366"/>
+	<SubTexture name="20000" x="0" y="371" width="782" height="366"/>
+	<SubTexture name="30000" x="787" y="371" width="782" height="366"/>
+	<SubTexture name="40000" x="0" y="742" width="782" height="366"/>
+	<SubTexture name="50000" x="787" y="742" width="782" height="366"/>
+	<SubTexture name="60000" x="0" y="1113" width="782" height="366"/>
+	<SubTexture name="die0000" x="787" y="0" width="782" height="366"/>
+	<SubTexture name="die0001" x="0" y="0" width="782" height="366"/>
+	<SubTexture name="load0000" x="0" y="0" width="782" height="366"/>
+	<SubTexture name="load0001" x="787" y="0" width="782" height="366"/>
+	<SubTexture name="load0002" x="0" y="371" width="782" height="366"/>
+	<SubTexture name="load0003" x="787" y="371" width="782" height="366"/>
+	<SubTexture name="load0004" x="0" y="742" width="782" height="366"/>
+	<SubTexture name="load0005" x="787" y="742" width="782" height="366"/>
+	<SubTexture name="load0006" x="0" y="1113" width="782" height="366"/>
+</TextureAtlas>

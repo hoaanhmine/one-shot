@@ -1,0 +1,156 @@
+{
+	"position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"image": "characters/nega-gf",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"name": "gf idle",
+			"indices": [
+				16,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"anim": "danceLeft",
+			"loop": false
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"name": "gf idle",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"anim": "danceRight",
+			"loop": false
+		},
+		{
+			"name": "gf shoots",
+			"offsets": [
+				4,
+				-23
+			],
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"loop": false
+		},
+		{
+			"name": "gf angry0",
+			"offsets": [
+				73,
+				98
+			],
+			"fps": 24,
+			"anim": "angry",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				-4
+			],
+			"fps": 24,
+			"name": "gf reaction",
+			"loop": false,
+			"indices": [],
+			"anim": "bf die"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"name": "gf idle angry",
+			"indices": [
+				16,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"anim": "danceLeft-alt",
+			"loop": false
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"name": "gf idle angry",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"anim": "danceRight-alt",
+			"loop": false
+		},
+		{
+			"name": "gf final",
+			"offsets": [
+				138,
+				92
+			],
+			"fps": 24,
+			"anim": "final",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"name": "gf laugh",
+			"offsets": [
+				139,
+				74
+			],
+			"fps": 24,
+			"anim": "final2",
+			"loop": false,
+			"indices": []
+		}
+	],
+	"flip_x": false,
+	"no_antialiasing": false,
+	"scale": 1,
+	"healthicon": "gf",
+	"camera_position": [
+		0,
+		0
+	],
+	"healthbar_colors": [165, 0, 77]
+}

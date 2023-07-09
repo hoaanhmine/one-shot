@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="landing.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="landing0000" x="0" y="0" width="459" height="1725" frameX="-155" frameY="0" frameWidth="829" frameHeight="1892"/>
+	<SubTexture name="landing0001" x="459" y="0" width="797" height="1118" frameX="-32" frameY="-774" frameWidth="829" frameHeight="1892"/>
+	<SubTexture name="landing0002" x="459" y="0" width="797" height="1118" frameX="-32" frameY="-774" frameWidth="829" frameHeight="1892"/>
+	<SubTexture name="landing0003" x="1256" y="0" width="829" height="767" frameX="0" frameY="-1115" frameWidth="829" frameHeight="1892"/>
+	<SubTexture name="landing0004" x="1256" y="0" width="829" height="767" frameX="0" frameY="-1115" frameWidth="829" frameHeight="1892"/>
+	<SubTexture name="landing0005" x="2085" y="0" width="806" height="776" frameX="-14" frameY="-1107" frameWidth="829" frameHeight="1892"/>
+	<SubTexture name="landing0006" x="2085" y="0" width="806" height="776" frameX="-14" frameY="-1107" frameWidth="829" frameHeight="1892"/>
+	<SubTexture name="landing0007" x="2891" y="0" width="796" height="870" frameX="-21" frameY="-1013" frameWidth="829" frameHeight="1892"/>
+	<SubTexture name="landing0008" x="2891" y="0" width="796" height="870" frameX="-21" frameY="-1013" frameWidth="829" frameHeight="1892"/>
+	<SubTexture name="landing0009" x="0" y="1725" width="787" height="957" frameX="-20" frameY="-927" frameWidth="829" frameHeight="1892"/>
+	<SubTexture name="landing0010" x="0" y="1725" width="787" height="957" frameX="-20" frameY="-927" frameWidth="829" frameHeight="1892"/>
+	<SubTexture name="landing0011" x="787" y="1725" width="782" height="1000" frameX="-22" frameY="-885" frameWidth="829" frameHeight="1892"/>
+	<SubTexture name="landing0012" x="787" y="1725" width="782" height="1000" frameX="-22" frameY="-885" frameWidth="829" frameHeight="1892"/>
+</TextureAtlas>

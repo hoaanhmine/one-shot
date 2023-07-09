@@ -1,0 +1,120 @@
+{
+	"position": [
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		200
+	],
+	"animations": [
+		{
+			"offsets": [
+				126,
+				-15
+			],
+			"fps": 24,
+			"name": "idle",
+			"loop": false,
+			"indices": [],
+			"anim": "idle"
+		},
+		{
+			"offsets": [
+				159,
+				18
+			],
+			"fps": 24,
+			"name": "up",
+			"loop": false,
+			"indices": [],
+			"anim": "singUP"
+		},
+		{
+			"offsets": [
+				241,
+				-61
+			],
+			"fps": 24,
+			"name": "left",
+			"loop": false,
+			"indices": [],
+			"anim": "singLEFT"
+		},
+		{
+			"offsets": [
+				85,
+				-72
+			],
+			"fps": 24,
+			"name": "righ t",
+			"loop": false,
+			"indices": [],
+			"anim": "singRIGHT"
+		},
+		{
+			"offsets": [
+				139,
+				-219
+			],
+			"fps": 24,
+			"name": "down",
+			"loop": false,
+			"indices": [],
+			"anim": "singDOWN"
+		},
+		{
+			"offsets": [
+				160,
+				20
+			],
+			"fps": 24,
+			"name": "up",
+			"loop": false,
+			"indices": [],
+			"anim": "singUPmiss"
+		},
+		{
+			"offsets": [
+				81,
+				-7
+			],
+			"fps": 24,
+			"name": "right",
+			"loop": false,
+			"indices": [],
+			"anim": "singRIGHTmiss"
+		},
+		{
+			"offsets": [
+				236,
+				-57
+			],
+			"fps": 24,
+			"name": "left",
+			"loop": false,
+			"indices": [],
+			"anim": "singLEFTmiss"
+		},
+		{
+			"offsets": [
+				135,
+				-225
+			],
+			"fps": 24,
+			"name": "down",
+			"loop": false,
+			"indices": [],
+			"anim": "singDOWNmiss"
+		}
+	],
+	"image": "characters/darnell",
+	"sing_duration": 4,
+	"flip_x": false,
+	"no_antialiasing": false,
+	"scale": 1,
+	"healthicon": "pico",
+	"beatDancer": false,
+	"healthbar_colors": [183, 216, 85],
+	"format": "andromeda"
+}

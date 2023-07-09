@@ -1,0 +1,153 @@
+{
+	"position": [
+		0,
+		0
+	],
+	"camera_position": [
+		-70,
+		-50
+	],
+	"animations": [
+		{
+			"offsets": [
+				13,
+				54
+			],
+			"fps": 24,
+			"name": "idle",
+			"loop": false,
+			"indices": [],
+			"anim": "idle"
+		},
+		{
+			"offsets": [
+				-73,
+				55
+			],
+			"fps": 24,
+			"name": "up0",
+			"anim": "singUP",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"offsets": [
+				38,
+				42
+			],
+			"fps": 24,
+			"name": "left0",
+			"anim": "singLEFT",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"offsets": [
+				-86,
+				60
+			],
+			"fps": 24,
+			"name": "right0",
+			"anim": "singRIGHT",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				58
+			],
+			"fps": 24,
+			"name": "down0",
+			"anim": "singDOWN",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"offsets": [
+				-56,
+				56
+			],
+			"fps": 24,
+			"name": "up miss",
+			"loop": false,
+			"indices": [],
+			"anim": "singUPmiss"
+		},
+		{
+			"offsets": [
+				-84,
+				61
+			],
+			"fps": 24,
+			"name": "right miss",
+			"loop": false,
+			"indices": [],
+			"anim": "singRIGHTmiss"
+		},
+		{
+			"offsets": [
+				38,
+				41
+			],
+			"fps": 24,
+			"name": "left miss",
+			"loop": false,
+			"indices": [],
+			"anim": "singLEFTmiss"
+		},
+		{
+			"offsets": [
+				-8,
+				66
+			],
+			"fps": 24,
+			"name": "down miss",
+			"loop": false,
+			"indices": [],
+			"anim": "singDOWNmiss"
+		},
+		{
+			"offsets": [
+				-19,
+				64
+			],
+			"fps": 24,
+			"name": "hey",
+			"anim": "hey",
+			"loop": false,
+			"indices": []
+		},
+		{
+			"offsets": [
+				-38,
+				89
+			],
+			"fps": 24,
+			"name": "dodge",
+			"loop": false,
+			"indices": [],
+			"anim": "dodge"
+		},
+		{
+			"name": "pico reaction",
+			"offsets": [
+				-28,
+				85
+			],
+			"fps": 24,
+			"anim": "final",
+			"loop": false,
+			"indices": []
+		}
+	],
+	"image": "characters/nega-pico",
+	"sing_duration": 4,
+	"flip_x": true,
+	"no_antialiasing": false,
+	"scale": 1,
+	"healthicon": "bf",
+	"beatDancer": false,
+	"healthbar_colors": [49, 176, 209],
+	"format": "andromeda"
+}

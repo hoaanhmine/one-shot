@@ -1,0 +1,34 @@
+{
+	"objects": [
+		[
+			"menu/songs/deimos_bg",
+			0,
+			0,
+			1,
+			1,
+			1,
+			false,
+			true
+		],
+		[
+			"menu/songs/deimos_rock",
+			0,
+			0,
+			1,
+			1,
+			1,
+			false,
+			true
+		],
+		[
+			"menu/songs/deimos",
+			0,
+			73,
+			1,
+			1,
+			1,
+			true,
+			true
+		]
+	]
+}

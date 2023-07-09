@@ -1,0 +1,19 @@
+<TextureAtlas imagePath="controls.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture x="0" frameWidth="0" y="0" frameX="0" name="controls0000" frameHeight="0" frameY="0" width="308" height="269"/>
+	<SubTexture x="313" frameWidth="399" y="0" frameX="26" name="play0000" frameHeight="345" frameY="-4" width="349" height="290"/>
+	<SubTexture x="0" frameWidth="399" y="295" frameX="37" name="play0001" frameHeight="345" frameY="5" width="367" height="314"/>
+	<SubTexture x="372" frameWidth="399" y="295" frameX="49" name="play0002" frameHeight="345" frameY="14" width="385" height="329"/>
+	<SubTexture x="0" frameWidth="399" y="629" frameX="49" name="play0003" frameHeight="345" frameY="14" width="385" height="329"/>
+	<SubTexture x="390" frameWidth="399" y="629" frameX="54" name="play0004" frameHeight="345" frameY="16" width="396" height="340"/>
+	<SubTexture x="0" frameWidth="399" y="974" frameX="54" name="play0005" frameHeight="345" frameY="16" width="396" height="340"/>
+	<SubTexture x="401" frameWidth="399" y="974" frameX="56" name="play0006" frameHeight="345" frameY="18" width="399" height="341"/>
+	<SubTexture x="0" frameWidth="0" y="1320" frameX="56" name="play0007" frameHeight="0" frameY="18" width="399" height="345"/>
+	<SubTexture x="404" frameWidth="399" y="1320" frameX="0" name="play0008" frameHeight="345" frameY="0" width="308" height="269"/>
+	<SubTexture x="0" frameWidth="399" y="1670" frameX="0" name="play0009" frameHeight="345" frameY="0" width="308" height="269"/>
+	<SubTexture x="0" frameWidth="399" y="1670" frameX="0" name="play0010" frameHeight="345" frameY="0" width="308" height="269"/>
+	<SubTexture x="313" frameWidth="399" y="1670" frameX="0" name="play0011" frameHeight="345" frameY="0" width="308" height="269"/>
+	<SubTexture x="313" frameWidth="399" y="1670" frameX="0" name="play0012" frameHeight="345" frameY="0" width="308" height="269"/>
+	<SubTexture x="313" frameWidth="399" y="1670" frameX="0" name="play0013" frameHeight="345" frameY="0" width="308" height="269"/>
+</TextureAtlas>

@@ -1,0 +1,37 @@
+{
+	"objects": [
+		[
+			"menu/songs/convict_bg",
+			0,
+			0,
+			1,
+			1,
+			1,
+			false,
+			false,
+			1
+		],
+		[
+			"menu/songs/convict",
+			-150,
+			23,
+			0.7,
+			1,
+			1,
+			true,
+			false,
+			1
+		],
+		[
+			"bg/convict/ilumination",
+			-828,
+			-473,
+			0.409999999999999,
+			1,
+			1,
+			false,
+			false,
+			0.67
+		]
+	]
+}

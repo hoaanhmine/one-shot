@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="convict.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="856" height="771" frameX="-41" frameY="-49" frameWidth="897" frameHeight="821"/>
+	<SubTexture name="idle0001" x="866" y="0" width="856" height="771" frameX="-41" frameY="-49" frameWidth="897" frameHeight="821"/>
+	<SubTexture name="idle0002" x="1732" y="0" width="881" height="776" frameX="-16" frameY="-44" frameWidth="897" frameHeight="821"/>
+	<SubTexture name="idle0003" x="2623" y="0" width="881" height="776" frameX="-16" frameY="-44" frameWidth="897" frameHeight="821"/>
+	<SubTexture name="idle0004" x="0" y="786" width="897" height="793" frameX="0" frameY="-27" frameWidth="897" frameHeight="821"/>
+	<SubTexture name="idle0005" x="907" y="786" width="897" height="793" frameX="0" frameY="-27" frameWidth="897" frameHeight="821"/>
+	<SubTexture name="idle0006" x="1814" y="786" width="862" height="817" frameX="-32" frameY="-4" frameWidth="897" frameHeight="821"/>
+	<SubTexture name="idle0007" x="2686" y="786" width="862" height="817" frameX="-32" frameY="-4" frameWidth="897" frameHeight="821"/>
+	<SubTexture name="idle0008" x="0" y="1613" width="851" height="821" frameX="-43" frameY="0" frameWidth="897" frameHeight="821"/>
+	<SubTexture name="idle0009" x="861" y="1613" width="851" height="821" frameX="-43" frameY="0" frameWidth="897" frameHeight="821"/>
+	<SubTexture name="idle0010" x="1722" y="1613" width="851" height="821" frameX="-43" frameY="0" frameWidth="897" frameHeight="821"/>
+	<SubTexture name="idle0011" x="2583" y="1613" width="851" height="821" frameX="-43" frameY="0" frameWidth="897" frameHeight="821"/>
+	<SubTexture name="idle0012" x="0" y="2444" width="850" height="812" frameX="-44" frameY="-9" frameWidth="897" frameHeight="821"/>
+	<SubTexture name="idle0013" x="860" y="2444" width="850" height="812" frameX="-44" frameY="-9" frameWidth="897" frameHeight="821"/>
+</TextureAtlas>

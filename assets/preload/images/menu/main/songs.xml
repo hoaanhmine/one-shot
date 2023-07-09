@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="play.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="play0000" x="0" y="0" width="685" height="495"/>
+	<SubTexture name="play0001" x="0" y="0" width="685" height="495"/>
+	<SubTexture name="play0002" x="0" y="500" width="685" height="495"/>
+	<SubTexture name="play0003" x="0" y="500" width="685" height="495"/>
+	<SubTexture name="play0004" x="0" y="1000" width="685" height="495"/>
+	<SubTexture name="play0005" x="0" y="1000" width="685" height="495"/>
+	<SubTexture name="play0006" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0007" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0008" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0009" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0010" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0011" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0012" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0013" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0014" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0015" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0016" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0017" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0018" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0019" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0020" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0021" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0022" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0023" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0024" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0025" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0026" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0027" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0028" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0029" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0030" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0031" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0032" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0033" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0034" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0035" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0036" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0037" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0038" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0039" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0040" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0041" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0042" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0043" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0044" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0045" x="0" y="1500" width="685" height="495"/>
+	<SubTexture name="play0046" x="0" y="1500" width="685" height="495"/>
+</TextureAtlas>

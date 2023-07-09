@@ -1,0 +1,88 @@
+{
+	"objects": [
+		[
+			"convict/bg",
+			21,
+			-796,
+			1,
+			1,
+			1,
+			false,
+			false,
+			1
+		],
+		[
+			"convict/intro",
+			1601,
+			-281,
+			1,
+			1,
+			1,
+			true,
+			false,
+			0
+		],
+		[
+			"convict/light",
+			-9,
+			-631,
+			1,
+			1,
+			1,
+			false,
+			false,
+			0.46
+		],
+		[
+			"convict/landing",
+			669,
+			-800,
+			1,
+			1,
+			1,
+			true,
+			false,
+			0
+		],
+		[
+			"convict/ilumination",
+			386,
+			-820,
+			1,
+			1,
+			1,
+			false,
+			true,
+			0.2
+		],
+		[
+			"convict/filter",
+			49,
+			-836,
+			1,
+			1,
+			1,
+			false,
+			true,
+			0.2
+		]
+	],
+	"gfPos": [
+		0,
+		0
+	],
+	"bfPos": [
+		51,
+		-74
+	],
+	"drPos": [
+		784,
+		63
+	],
+	"cameraZoom": 0.54,
+	"curStage": "convict",
+	"dadPos": [
+		1190,
+		-340
+	]
+}
